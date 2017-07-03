@@ -1,0 +1,39 @@
+body{
+  margin: 0px;
+  background: lightgray;
+}
+.fullWidth{
+  width: 100%;
+
+}
+/*Common Classes*/
+.mainWidth{
+  width: 1000px;
+  margin: 0px auto;
+}
+.colorWhite{
+  background: white;
+}
+.colorPink{
+  background: lightpink;
+}
+.colorGray{
+  background: darkgray;
+}
+.verticalSpacer{
+  height: 15px;
+}
+/*Main Classes*/
+.topNavigationSect{
+
+}
+.innerNav{
+  height: 30px;
+  border: 1px solid white;
+}
+.sliderSect{
+  height: 200px;
+}
+.newsSect{
+  height: 300px;
+}
